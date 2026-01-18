@@ -33,7 +33,7 @@ The project evaluates password strength using **rule-based validation**, **entro
 
 ## 📷 Screenshot
 
-![CLI and GUI output](screenshots/cli-gui.png)
+![CLI and GUI output](interface-demo.png)
 
 *CLI and Tkinter GUI using the same password validation logic.*
 
