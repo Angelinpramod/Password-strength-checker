@@ -31,6 +31,15 @@ The project evaluates password strength using **rule-based validation**, **entro
 
 ---
 
+## 📷 Screenshot
+
+![CLI and GUI output](screenshots/cli-gui.png)
+
+*CLI and Tkinter GUI using the same password validation logic.*
+
+---
+
+
 ## 🧮 Entropy Calculation
 
 Password entropy is estimated using the formula:
