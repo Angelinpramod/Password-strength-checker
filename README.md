@@ -84,7 +84,8 @@ password-strength-checker/
 ├── core.py   # Password validation and security logic
 ├── gui.py    # Tkinter-based GUI
 ├── cli.py    # Command-line interface
-└── README.md
+├── interface-demo.png 
+└── README.md # This file
 ```
 
 ---
